@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NodePrompt",
+	"Description": "Create blueprint nodes with LLMs using API",
+	"Category": "Other",
+	"CreatedBy": "Bartosz Jastrzebski",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NodePrompt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
